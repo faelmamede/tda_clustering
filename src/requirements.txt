@@ -1,0 +1,5 @@
+matplotlib
+ttkbootstrap
+scipy
+scikit-learn
+gudhi
